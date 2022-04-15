@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	service.StartGame()
+	service.LoadGame()
 }
